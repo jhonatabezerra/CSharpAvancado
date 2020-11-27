@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "00_Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/00_Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/00_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "00_Library/1.0.0": {
+      "type": "project",
+      "path": "../00_Biblioteca/00_Library.csproj",
+      "msbuildProject": "../00_Biblioteca/00_Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "00_Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jbezerra\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jbezerra\\source\\repos\\Udemy\\CSharp avancado\\Secao 1\\01_SerializeXML\\03_SerializeJSON\\03_SerializeJSON.csproj",
+      "projectName": "03_SerializeJSON",
+      "projectPath": "C:\\Users\\jbezerra\\source\\repos\\Udemy\\CSharp avancado\\Secao 1\\01_SerializeXML\\03_SerializeJSON\\03_SerializeJSON.csproj",
+      "packagesPath": "C:\\Users\\jbezerra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jbezerra\\source\\repos\\Udemy\\CSharp avancado\\Secao 1\\01_SerializeXML\\03_SerializeJSON\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jbezerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.rdisoftware.com/nuget/": {},
+        "https://repo.rdisoftware.com/artifactory/api/nuget/rdi-nuget-virtual": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\jbezerra\\source\\repos\\Udemy\\CSharp avancado\\Secao 1\\01_SerializeXML\\00_Biblioteca\\00_Library.csproj": {
+              "projectPath": "C:\\Users\\jbezerra\\source\\repos\\Udemy\\CSharp avancado\\Secao 1\\01_SerializeXML\\00_Biblioteca\\00_Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3HPGNTIvlo4Bwz//KSb8u07O3oZnOrLGJUl86ent+yvZWIX/EhrvRRDFVZedxMe5VNymmtyZbO5mm9wLp+jKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jbezerra\\source\\repos\\Udemy\\CSharp avancado\\Secao 1\\01_SerializeXML\\00_Biblioteca\\00_Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

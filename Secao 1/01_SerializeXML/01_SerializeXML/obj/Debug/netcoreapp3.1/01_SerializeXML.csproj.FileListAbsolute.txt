@@ -1,0 +1,16 @@
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\bin\Debug\netcoreapp3.1\01_SerializeXML.exe
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\bin\Debug\netcoreapp3.1\01_SerializeXML.deps.json
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\bin\Debug\netcoreapp3.1\01_SerializeXML.runtimeconfig.json
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\bin\Debug\netcoreapp3.1\01_SerializeXML.runtimeconfig.dev.json
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\bin\Debug\netcoreapp3.1\01_SerializeXML.dll
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\bin\Debug\netcoreapp3.1\01_SerializeXML.pdb
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\bin\Debug\netcoreapp3.1\00_Library.dll
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\bin\Debug\netcoreapp3.1\00_Library.pdb
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\obj\Debug\netcoreapp3.1\01_SerializeXML.csprojAssemblyReference.cache
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\obj\Debug\netcoreapp3.1\01_SerializeXML.AssemblyInfoInputs.cache
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\obj\Debug\netcoreapp3.1\01_SerializeXML.AssemblyInfo.cs
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\obj\Debug\netcoreapp3.1\01_SerializeXML.csproj.CoreCompileInputs.cache
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\obj\Debug\netcoreapp3.1\01_SerializeXML.csproj.CopyComplete
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\obj\Debug\netcoreapp3.1\01_SerializeXML.dll
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\obj\Debug\netcoreapp3.1\01_SerializeXML.pdb
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\01_SerializeXML\obj\Debug\netcoreapp3.1\01_SerializeXML.genruntimeconfig.cache

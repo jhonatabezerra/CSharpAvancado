@@ -1,0 +1,12 @@
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\bin\Debug\03_SerializeJSON.exe.config
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\bin\Debug\03_SerializeJSON.exe
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\bin\Debug\03_SerializeJSON.pdb
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\bin\Debug\00_Library.dll
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\bin\Debug\Nancy.dll
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\bin\Debug\00_Library.pdb
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\bin\Debug\Nancy.xml
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\obj\Debug\03_SerializeJSON.csprojAssemblyReference.cache
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\obj\Debug\03_SerializeJSON.csproj.CoreCompileInputs.cache
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\obj\Debug\03_SerializeJSON.csproj.CopyComplete
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\obj\Debug\03_SerializeJSON.exe
+C:\Users\jbezerra\source\repos\Udemy\CSharp avancado\Secao 1\01_SerializeXML\03\obj\Debug\03_SerializeJSON.pdb
